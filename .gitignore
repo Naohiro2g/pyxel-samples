@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# pyxel copy_examples で写した公式の作例
+pyxel_examples/
